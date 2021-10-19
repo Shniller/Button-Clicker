@@ -1,0 +1,49 @@
+.Nav-Container {
+    display: flex;
+    background: grey;
+    width: 1300px;
+    height: 200px;
+}
+
+.Align-Middle-Container {
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    background: grey;
+    width: 800px;
+    height: 200px;
+    justify-content: space-around;
+}
+
+.Screen-Container {
+    margin: 0 auto;
+    display: flex
+}
+
+
+.Col-1-Container {
+    margin: 20px;
+    display: inline-block;
+    display: flex;
+    background: orange;
+    width: 400px;
+    height: 150px;
+    flex: 2;
+}
+
+.Col-1-Container-2 {
+    margin: 20px;
+    background: black;
+    width: 400px;
+    height: 150px;
+}
+
+.Col-2-Container {
+    margin: 20px;
+    display: inline-block;
+    display: flex;
+    background: purple;
+    width: 400px;
+    height: 150px;
+    flex: 1;
+}
